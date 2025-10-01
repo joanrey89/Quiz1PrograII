@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\semana 4\\programa empleados 1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A459A8E-A7A8-49B8-87CA-53CC9EC72276}|programa empleados 1.2\\programa empleados 1.2.csproj|e:\\copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\semana 4\\programa empleados 1.2\\programa empleados 1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A459A8E-A7A8-49B8-87CA-53CC9EC72276}|programa empleados 1.2\\programa empleados 1.2.csproj|solutionrelative:programa empleados 1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\semana 4\\programa empleados 1.2\\programa empleados 1.2\\Program.cs",
+              "RelativeDocumentMoniker": "programa empleados 1.2\\Program.cs",
+              "ToolTip": "E:\\Copia de seguridad\\u\\tercer cuatri 2024\\progra 2\\semana 4\\programa empleados 1.2\\programa empleados 1.2\\Program.cs",
+              "RelativeToolTip": "programa empleados 1.2\\Program.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAuwAwBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:41:56.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

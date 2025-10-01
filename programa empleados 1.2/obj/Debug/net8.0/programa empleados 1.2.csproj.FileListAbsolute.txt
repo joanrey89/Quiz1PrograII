@@ -1,0 +1,14 @@
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\bin\Debug\net8.0\programa empleados 1.2.exe
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\bin\Debug\net8.0\programa empleados 1.2.deps.json
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\bin\Debug\net8.0\programa empleados 1.2.runtimeconfig.json
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\bin\Debug\net8.0\programa empleados 1.2.dll
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\bin\Debug\net8.0\programa empleados 1.2.pdb
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\programa empleados 1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\programa empleados 1.2.AssemblyInfoInputs.cache
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\programa empleados 1.2.AssemblyInfo.cs
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\programa empleados 1.2.csproj.CoreCompileInputs.cache
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\programa empleados 1.2.dll
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\refint\programa empleados 1.2.dll
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\programa empleados 1.2.pdb
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\programa empleados 1.2.genruntimeconfig.cache
+E:\Copia de seguridad\u\tercer cuatri 2024\progra 2\semana 4\programa empleados 1.2\programa empleados 1.2\obj\Debug\net8.0\ref\programa empleados 1.2.dll
